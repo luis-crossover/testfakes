@@ -1,0 +1,6 @@
+C:\Users\Astos\source\repos\CSharpUnitTestingWorkshop\ModuleToTest\bin\Debug\ModuleToTest.dll
+C:\Users\Astos\source\repos\CSharpUnitTestingWorkshop\ModuleToTest\bin\Debug\ModuleToTest.pdb
+C:\Users\Astos\source\repos\CSharpUnitTestingWorkshop\ModuleToTest\obj\Debug\ModuleToTest.csprojAssemblyReference.cache
+C:\Users\Astos\source\repos\CSharpUnitTestingWorkshop\ModuleToTest\obj\Debug\ModuleToTest.csproj.CoreCompileInputs.cache
+C:\Users\Astos\source\repos\CSharpUnitTestingWorkshop\ModuleToTest\obj\Debug\ModuleToTest.dll
+C:\Users\Astos\source\repos\CSharpUnitTestingWorkshop\ModuleToTest\obj\Debug\ModuleToTest.pdb
