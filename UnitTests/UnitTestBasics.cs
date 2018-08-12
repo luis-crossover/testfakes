@@ -31,7 +31,7 @@ namespace UnitTests
         // BTW: Do you know the "testc" and "testm" snippets?
 
         #region Asserts
-        [TestMethod]
+        //[TestMethod]
         public void Asserts()
         {
             // For details about asserts see
@@ -129,9 +129,9 @@ namespace UnitTests
         // Note that the framework will automatically fill this property
         public TestContext TestContext { get; set; }
 
-        [DataSource("System.Data.SqlServerCe.4.0", "Data Source=TestData.sdf;", "TestValues", DataAccessMethod.Sequential)]
+        /*[DataSource("System.Data.SqlServerCe.4.0", "Data Source=TestData.sdf;", "TestValues", DataAccessMethod.Sequential)]
         [DeploymentItem("TestData.sdf")]
-        [TestMethod]
+        [TestMethod]*/
         public void DataDrivenTest()
         {
             // Don't forget to set a breakpoint in this method and
